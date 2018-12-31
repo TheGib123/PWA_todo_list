@@ -1,0 +1,37 @@
+
+.nav {
+	background-color: lightgrey;
+}
+
+
+.col-md-4 {
+	background-color: red;
+}
+
+.col-md-9 {
+	background-color: blue;
+}
+
+.well {
+    /*background: rgb(22, 105, 173);*/
+    margin-bottom: 500px;
+}
+
+/*
+.a {
+	height:5000px;
+}
+*/
+
+.b {
+	margin-top: 85px;
+}
+
+#spacer-bottom {
+	height: 70px;
+}
+
+
+textarea {
+    resize: none;
+}
